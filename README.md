@@ -1,6 +1,6 @@
 # Courses - Rocketseat
 
-Files from the courses of Rocketseat that I have studied:
+Files from the courses of Rocketseat:
 
 - JavaScript;
 - ES6;
